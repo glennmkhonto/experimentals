@@ -1,0 +1,5 @@
+python==3.10.12
+ubuntu-advantage-tools==8001
+selenium==4.17.2
+docker==26.1.0
+kubectl==1.29.4
