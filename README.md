@@ -1,4 +1,4 @@
-# Star Wars take-home test
+# Star Wars take-home tests
 
 This is small React app that was completed for a take-home test
 
